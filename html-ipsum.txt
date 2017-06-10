@@ -9,3 +9,10 @@
   <li>line item</li>
   <li>line item</li>
 </ul>
+<ol>
+  <li>line item</li>
+  <li>line item</li>
+  <li>line item</li>
+  <li>line item</li>
+  <li>line item</li>
+</ol>
