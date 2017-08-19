@@ -3,16 +3,16 @@
 <p>output p param picture pre progress q rp rt ruby s samp script section select small source span strike strong style sub summary sup table tbody td textarea tfoot th thead time title tr track tt u ul var video wbr</p>
 <hr/>
 <ul>
-  <li>line item</li>
-  <li>line item</li>
-  <li>line item</li>
-  <li>line item</li>
-  <li>line item</li>
+  <li>un-ordered line item</li>
+  <li>un-ordered line item</li>
+  <li>un-ordered line item</li>
+  <li>un-ordered line item</li>
+  <li>un-ordered line item</li>
 </ul>
 <ol>
-  <li>line item</li>
-  <li>line item</li>
-  <li>line item</li>
-  <li>line item</li>
-  <li>line item</li>
+  <li>ordered line item</li>
+  <li>ordered line item</li>
+  <li>ordered line item</li>
+  <li>ordered line item</li>
+  <li>ordered line item</li>
 </ol>
